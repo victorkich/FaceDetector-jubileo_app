@@ -1,8 +1,11 @@
 #!/usr/bin/env python3
 
+from std_msgs.msg import Int16MultiArray
 from sensor_msgs.msg import Image
 from cv_bridge import CvBridge
 import face_detection
+import rospy
+import cv2
 
 
 class FaceEnable:
