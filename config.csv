@@ -1,2 +1,2 @@
-_,id,node,priority,version,new_update,default,name
-0,1,face_detector,5,1,False,False,victorkich/FaceDetector-jubileo_app
+id,node,priority,version,new_update,default,name
+1,face_detector,5,1,False,False,victorkich/FaceDetector-jubileo_app
